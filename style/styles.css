@@ -1,3 +1,4 @@
+/*-------common-------*/
 body{
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
@@ -13,7 +14,6 @@ body{
     border: 0;
     color: #FFFFFF;
 }
-
 /*-------navbar-------*/
 nav{
     display: flex;
@@ -124,7 +124,7 @@ nav a{
     padding: 0px 300px 0px 235px;
     align-items: center;
     text-align: center;
-    margin-bottom: 35px;   
+    margin-bottom: 10px;   
     
 }
 .support-content{    
