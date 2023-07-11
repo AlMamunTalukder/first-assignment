@@ -49,6 +49,11 @@ nav a{
     align-items: center;
    
 }
+.banner-title{
+    font-size: 40px;
+    padding: 0px 430px 0px 0px;
+}
+
 .banner .banner-flower{
     width: 480px;
     
@@ -124,7 +129,7 @@ nav a{
     padding: 0px 300px 0px 235px;
     align-items: center;
     text-align: center;
-    margin-bottom: 10px;   
+    margin-bottom: 30px;   
     
 }
 .support-content{    
